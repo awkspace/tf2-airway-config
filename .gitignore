@@ -1,0 +1,15 @@
+/*
+!.gitignore
+!airway_version.txt
+!/maps
+/maps/*.bsp
+/maps/graphs
+!/cfg
+/cfg/*
+!/cfg/mapcycle.txt
+!/cfg/*.cfg
+!/cfg/sourcemod
+/cfg/host.cfg
+!/cfg/*.sh
+!/deploy_scripts
+!/plugins
