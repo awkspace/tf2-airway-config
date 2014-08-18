@@ -13,3 +13,10 @@
 !/cfg/*.sh
 !/deploy_scripts
 !/plugins
+!/addons
+/addons/*
+!/addons/sourcemod
+/addons/sourcemod/*
+!/addons/sourcemod/configs
+/addons/sourcemod/configs/*
+!/addons/sourcemod/configs/*.cfg
