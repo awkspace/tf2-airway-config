@@ -20,3 +20,6 @@
 !/addons/sourcemod/configs
 /addons/sourcemod/configs/*
 !/addons/sourcemod/configs/*.cfg
+!/addons/sourcemod/translations
+/addons/sourcemod/translations/*
+!/addons/sourcemod/translations/cannounce*
